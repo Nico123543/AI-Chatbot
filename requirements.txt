@@ -1,0 +1,7 @@
+requests
+pyttsx3
+vosk
+pyaudio
+opencv-python
+Pillow
+# tkinter ist meist in Python enthalten 
