@@ -1,0 +1,110 @@
+HOW TO:
+APP- UND BROWSERSTEUERUNG 
+AKTIVIEREN
+© Worldline 1
+HOW TO:
+ACTIVATE
+APP & BROWSERCONTROL
+STEP 1
+• Suchen Sie in der Windows-Suchleiste nach „Administratorenzugang“ und öffnen Sie die 
+Anwendung.
+• Search for “administrator access” in the Windows search bar and open it.
+© Worldline 2
+STEP 2
+• Geben Sie in das geöffnete Fenster Ihre E-Mail-Adresse ein und als Begründung "App und 
+Browsersteuerung". Bestätigen Sie anschließend mit "OK". 
+• Enter your email address in the opened window and state "app and browser control" as
+the reason. Then click "OK" to confirm. 
+© Worldline 3
+STEP 3
+• Im nächsten Fenster sollten Sie ebenfalls auf "OK" klicken, um fortzufahren.
+• In the next window, you should also click "OK" to proceed.
+© Worldline 4
+STEP 4
+• Fahren Sie fort, sobald das Fenster, das unten abgebildet ist, rechts unten auf Ihrem 
+Bildschirm erschienen ist.
+• Proceed as soon as the window shown below appears in the lower right corner of your
+screen.
+© Worldline 5
+STEP 5
+• Suchen Sie in der Windows-Suchleiste nach "cmd" und öffnen Sie die Anwendung mit „als 
+Administrator ausführen“.
+• Search for "cmd" in the Windows search bar and open the application as an 
+administrator.
+© Worldline 6
+STEP 6
+• Bestätigen Sie mit „Ja“.
+• Confirm by clicking "Yes".
+© Worldline 7
+STEP 7
+• In den nächsten drei Folien sehen Sie verschiedene Befehle, die Sie nacheinander 
+ausführen müssen. Sie können die Befehle einfach kopieren und mit Strg + V in die 
+Eingabeaufforderung einfügen. 
+• In the next three slides, you will see various commands that you need to execute one 
+after the other. You can simply copy the commands and paste them into the command 
+prompt using Ctrl + V.
+© Worldline 8
+STEP 7.1
+• Fügen Sie den folgenden Befehl in die erste Zeile ein und drücken Sie dann auf die 
+Eingabetaste/Entertaste. 
+• Paste the following command into the first line and then press Enter.
+© Worldline 9
+RD /S /Q "%windir%\System32\GroupPolicyUsers"
+STEP 7.2
+• Fügen Sie den folgenden Befehl in die zweite Zeile ein und drücken Sie dann auf die 
+Eingabetaste/Entertaste. 
+• Paste the following command into the first line and then press Enter.
+© Worldline 10
+RD /S /Q "%windir%\System32\GroupPolicy"
+STEP 7.3
+• Fügen Sie den folgenden Befehl in die dritte Zeile ein und drücken Sie dann auf die 
+Eingabetaste/Entertaste. 
+• Paste the following command into the first line and then press Enter.
+© Worldline 11
+gpupdate /force
+STEP 8
+• Wenn Sie die letzte Zeile hinzugefügt haben, drücken Sie erneut die Eingabetaste/ 
+Entertaste. Sie sollten dieses Bild sehen.
+• After adding the last line, press Enter again. You should see this image.
+© Worldline 12
+STEP 9
+• Schließen Sie alle Anwendungen und Fenster und starten Sie Ihr Gerät neu. 
+• Close all applications and windows, then restart your device.
+© Worldline 13
+STEP 10
+• Nach dem Hochfahren Ihres Geräts öffnen Sie erneut den Administratorenzugang (wie in 
+Schritt 1-4 beschrieben).
+• After your device starts up, open the administrator access again (as described in steps 
+1-4).
+© Worldline 14
+STEP 11
+• Öffnen Sie nun Windows Defender bzw. Windows-Sicherheit. Sie finden es unten rechts 
+auf Ihrem Bildschirm.
+• Now open Windows Defender. You can find it at the bottom right of your screen.
+© Worldline 15
+STEP 12
+© Worldline 16
+• Klicken Sie nun auf „Aktivieren“ im Feld „App- und Browsersteuerung“.
+• Now click on „Activate“ in the „App & Browser Control“ section.
+STEP 13
+• Es sollte sich nun das unten abgebildete Fenster öffnen. Melden Sie sich mit Ihren 
+Zugangsdaten an. Klicken Sie anschließend auf „Ja“. WICHTIG: Der Adminstratorenzugang
+MUSS zu diesem Zeitpunkt aktiv sein!
+• The window shown below should open. Log in with your credentials. Then click „Yes“. 
+IMPORTANT: The administrator access MUST be active at this time!
+© Worldline 17
+STEP 14
+• Das gelbe Ausrufezeichen im Feld „App- und Browsersteuerung“ sollte nun verschwunden 
+sein, und alles sollte aktiviert sein.
+• The yellow exclamation mark in the 'App & Browser Control' section should now be gone, 
+and everything should be activated.
+© Worldline 18
+LAST STEP 15
+• Sie können nun den 
+Administratorenzugang
+schließen. Jetzt sind Sie wieder
+startklar. 
+• You can now close the 
+administrator access. You’re all 
+set to go.
+© Worldline 19
